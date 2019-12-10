@@ -1,1 +1,4 @@
+User-agent: *
+allow: /
+
 Sitemap: https://kalsbeek-family.github.io/sitemap.xml
